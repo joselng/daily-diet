@@ -1,3 +1,3 @@
-# 💻 Ignite Teams
+# 🍽️ Daily Diet
 
 ### Iniciando o Projeto
