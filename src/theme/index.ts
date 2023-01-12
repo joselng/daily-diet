@@ -1,11 +1,11 @@
 export default {
   COLORS: {
-    RED_DARK: '',
-    RED_MID: '',
-    RED_LIGHT: '',
-    GREEN_DARK: '',
-    GREEN_MID: '',
-    GREEN_LIGHT: '',
+    RED_DARK: '#bf3b44',
+    RED_MID: '#f3babd',
+    RED_LIGHT: '#f4e6e7',
+    GREEN_DARK: '#639339',
+    GREEN_MID: '#cbe4b4',
+    GREEN_LIGHT: '#e5f0db',
     GRAY_700: '#1b1d1e',
     GRAY_600: '#333638',
     GRAY_500: '#5c6265',
