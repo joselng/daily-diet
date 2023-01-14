@@ -1,11 +1,16 @@
-import { Text } from "react-native";
+import { Header } from "@components/Header";
 
 import { Container } from "./styles";
+import { Card } from "@components/Card";
+import { Text } from "react-native";
+import { Meals } from "@components/Meals";
 
 export function Home() {
   return (
     <Container>
-      <Text>Home</Text>
+      <Header />
+      <Card />
+      <Meals />
     </Container>
   );
 }
